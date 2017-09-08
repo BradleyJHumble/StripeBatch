@@ -19,3 +19,6 @@ Link from Stripe suggesting this build => https://support.stripe.com/questions/d
 <p> We (a startup im active in) were thinking of just charging the customer more for the service since we can still be cheaper and provide a better service at $10 versus the current lowest rate at $17. So we might not use this build but regardless hope someone in the github community gets a use out of it</p>
 <br>
 <p> I have an active life style in College/Startup, so Im coming back to this in a few days</p>
+<ul>
+  <li>https://packagist.org/packages/cartalyst/stripe</li>
+</ul>  
